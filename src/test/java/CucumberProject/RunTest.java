@@ -6,7 +6,7 @@ import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = ".",tags = "@regration,@eurocurrancy",format = {"pretty","html:target/cucumber-reports"})
+@CucumberOptions(features = ".",tags = "@category",format = {"pretty","html:target/cucumber-reports"})
 public class RunTest
 {
 }
