@@ -9,6 +9,8 @@ public class EuroCurrancy extends Utils {
     By _euroCurrancy = By.id("customerCurrency");
 
      public void userIsOnEuroCurrancyPage()
+
+
      {
          assertTextMessage("Euro",_euroCurrancy);
      }
