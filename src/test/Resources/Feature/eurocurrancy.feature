@@ -1,8 +1,6 @@
-@regration
-@eurocurrancy
+ @eurocurrancy
 
-Feature: When user select on euro
-              user should able to see product in eurocurrancy only.
+Feature: eurocurrancy functionality
 
   Scenario: user should able to see product in eurocurrancy
 

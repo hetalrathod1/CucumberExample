@@ -1,8 +1,7 @@
-@regration
+
  @register
 
- Feature: User should able to register successfully,
-   so that he can use all user features from our website
+ Feature:registration functinaltiy
 
    Scenario: User should able to register successfully
 
